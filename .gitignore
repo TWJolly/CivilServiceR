@@ -4,4 +4,5 @@ data
 archive
 test_bi.pbix
 clean_data
+.env
 .venv
